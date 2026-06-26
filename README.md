@@ -13,3 +13,17 @@ This is a sample UI Automation Testing Framework built using:
 - Maven
 - Eclipse IDE
 - Git & GitHub
+
+Test Execution Flow
+1. Browser is launched using Base.java
+2. Application URL is opened
+3. Login actions are performed using Page Object Model
+4. Assertions validate the test result
+5. Browser is closed
+
+Key Features
+- Page Object Model design pattern
+- Reusable test framework
+- Maven dependency management
+- TestNG test execution
+- Easy to maintain and scale
