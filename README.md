@@ -1,3 +1,8 @@
+This project is a UI Automation Testing framework built to test the SauceDemo e-commerce demo application using Selenium WebDriver with Java. It demonstrates basic automation flow such as login and page validation.
+
+Application under Test:
+https://www.saucedemo.com/
+
 This is a sample UI Automation Testing Framework built using:
 - Selenium WebDriver
 - TestNG
