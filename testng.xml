@@ -1,12 +1,7 @@
-<!DOCTYPE suite SYSTEM "testng.dtd">
-<suite name="Automation Suite">
-
-    <test name="tests">
-
+<suite name="Suite">
+    <test name="Login Test">
         <classes>
-            <class name="tests"/>
+            <class name="tests.LoginTest"/>
         </classes>
-
     </test>
-
 </suite>
