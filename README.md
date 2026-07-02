@@ -1,10 +1,10 @@
-Project Overview
+**Project Overview**
 
 This is a Selenium WebDriver automation framework built using Java, TestNG, and Maven, following the Page Object Model (POM) design pattern.
 
 It automates the SauceDemo application and is designed for scalability, maintainability, and real-world test automation practices.
 
-Framework Structure
+
 ## 📁 Project Structure
 
 ```text
@@ -33,30 +33,44 @@ selenium-testing-framework
 ```
 
 
-Tech Stack
+**Tech Stack**
+
 Java
+
 Selenium WebDriver
+
 TestNG
+
 Maven
+
 WebDriverManager
+
 Page Object Model (POM)
 
-Application Under Test
+**Application Under Test**
+
 URL: https://www.saucedemo.com
+
 Type: E-commerce demo application
 
-Features
+**Features**
 
 ✔ Page Object Model (POM) Design
+
 ✔ Maven-based project structure
+
 ✔ Centralized configuration management
+
 ✔ Reusable utility classes
+
 ✔ Cross-browser support (Chrome setup)
+
 ✔ TestNG test execution
+
 ✔ Scalable framework design
 
 
-Configuration
+**Configuration**
 
 browser=chrome
 
